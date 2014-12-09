@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-feature "User browses the messages" do
+feature "User checks the messages" do
 
   before(:each) {
     Message.create(:text => "test message")
@@ -10,4 +10,5 @@ feature "User browses the messages" do
     visit '/'
     expect(page).to have_content("test message")
   end
+
 end
