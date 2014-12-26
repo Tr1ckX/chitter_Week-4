@@ -10,7 +10,7 @@ Chitter the Twitter clone
 </div>
 <br>
 
-<h5> Fourth week Challenge [Makers Academy](http://www.makersacademy.com) 
+<h5> Fourth week Challenge at [Makers Academy](http://www.makersacademy.com) 
 
 Create your own Twitter clone.
 
