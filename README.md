@@ -5,7 +5,6 @@ Chitter the Twitter clone
 <img src = https://img.shields.io/badge/%20-Ruby-blue.svg>
 <img src = https://img.shields.io/badge/%20-RSpec-red.svg>
 <img src = https://img.shields.io/badge/%20-Sinatra-FFFF00.svg>
-<img src = https://img.shields.io/badge/%20-Cucumber-009900.svg>
 <img src = https://img.shields.io/badge/%20-Capybara-ff0000.svg>
 </div>
 <br>
